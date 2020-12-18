@@ -26,3 +26,13 @@ body{
     background-color: white ;
     color: rgb(194, 5, 5);
   }
+
+  h1{
+    font-family: 'Piazzolla', serif;
+    font-size: 40pt;
+  }
+
+  h2{
+    font-family: 'Piazzolla', serif;
+    font-size: 20pt;
+  }
