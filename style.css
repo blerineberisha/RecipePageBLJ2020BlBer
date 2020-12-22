@@ -58,8 +58,10 @@ body{
     height: 2.5rem;
   }
 
+expand{-lg | -md |-sm}
+
   @media only screen and (min-width:1200px){
-    chrysler{
+    .chrysler{
       margin-bottom: 10px;
       height: auto;
       max-width: 100%;
@@ -97,7 +99,7 @@ body{
   }
     
     @media only screen and (min-width:990px){
-      chrysler{
+      .chrysler{
         margin-bottom: 10px;
         height: auto%;
         max-width: 100%;
@@ -135,7 +137,7 @@ body{
   }
 
   @media only screen and (max-width:989px){
-    chrysler{
+    .chrysler{
       margin-bottom: 10px;
       height: auto%;
       max-width:100%;
